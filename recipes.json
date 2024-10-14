@@ -1,0 +1,114 @@
+{
+    "0": {
+        "name": "Mac and Cheese",
+        "ingredients": [
+            {"item": "Elbow macaroni", "quantity": "16 oz"},
+            {"item": "Extra virgin olive oil", "quantity": "1 tbsp"},
+            {"item": "Unsalted butter", "quantity": "6 tbsp"},
+            {"item": "All-purpose flour", "quantity": "1/3 cup"},
+            {"item": "Whole milk", "quantity": "3 cups"},
+            {"item": "Heavy whipping cream", "quantity": "1 cup"},
+            {"item": "Sharp cheddar cheese, shredded", "quantity": "4 cups"},
+            {"item": "Gruyere cheese, shredded", "quantity": "2 cups"},
+            {"item": "Salt and pepper", "quantity": "to taste"},
+            {"item": "Panko crumbs", "quantity": "1 1/2 cups"},
+            {"item": "Butter, melted", "quantity": "4 tbsp"},
+            {"item": "Parmesan cheese, shredded", "quantity": "1/2 cup"},
+            {"item": "Smoked paprika", "quantity": "1/4 tsp"}
+        ]
+    },
+    "1": {
+        "name": "Stir Fry",
+        "ingredients": [
+            {"item": "Boneless chicken breast", "quantity": "1 lb"},
+            {"item": "Salt and pepper", "quantity": "to taste"},
+            {"item": "Olive oil", "quantity": "2 tbsp"},
+            {"item": "Broccoli florets", "quantity": "2 cups"},
+            {"item": "Yellow bell pepper", "quantity": "1/2"},
+            {"item": "Red bell pepper", "quantity": "1/2"},
+            {"item": "Baby carrots", "quantity": "1/2 cup"},
+            {"item": "Minced ginger", "quantity": "2 tsp"},
+            {"item": "Garlic cloves, minced", "quantity": "2"},
+            {"item": "Corn starch", "quantity": "1 tbsp"},
+            {"item": "Cold water", "quantity": "2 tbsp"},
+            {"item": "Low sodium chicken broth", "quantity": "1/4 cup"},
+            {"item": "Low sodium soy sauce", "quantity": "3 tbsp"},
+            {"item": "Honey", "quantity": "1/4 cup"},
+            {"item": "Toasted sesame oil", "quantity": "1 tbsp"},
+            {"item": "Crushed red pepper flakes", "quantity": "1/2 tsp"}
+        ]
+    },
+    "2": {
+        "name": "Chicken Caesar Salad Wraps",
+        "ingredients": [
+            {"item": "Panko bread crumbs"},
+            {"item": "Olive oil"},
+            {"item": "Kosher salt"},
+            {"item": "Black pepper"},
+            {"item": "Tahini"},
+            {"item": "Fresh lemon juice"},
+            {"item": "Garlic"},
+            {"item": "Tuscan kale"},
+            {"item": "Romaine lettuce"},
+            {"item": "Everything but the Bagel seasoning"},
+            {"item": "Avocados"},
+            {"item": "Chicken breasts"},
+            {"item": "Large tortillas"}
+        ]
+    },
+    "3": {
+        "name": "Roasted Sweet Potatoes",
+        "ingredients": [
+            {"item": "Sweet potatoes", "quantity": "4 medium"},
+            {"item": "Chickpeas", "quantity": "1 can"},
+            {"item": "Olive oil", "quantity": "1/2 tbsp"},
+            {"item": "Cumin", "quantity": "1/2 tsp"},
+            {"item": "Coriander", "quantity": "1/2 tsp"},
+            {"item": "Cinnamon", "quantity": "1/2 tsp"},
+            {"item": "Smoked paprika", "quantity": "1/2 tsp"},
+            {"item": "Sea salt", "quantity": "pinch"},
+            {"item": "Hummus or tahini", "quantity": "1/4 cup"},
+            {"item": "Lemon juice", "quantity": "1/2 medium"},
+            {"item": "Dried dill", "quantity": "3/4 – 1 tsp"},
+            {"item": "Garlic, minced", "quantity": "3 cloves"},
+            {"item": "Water or almond milk", "quantity": "to thin"},
+            {"item": "Cherry tomatoes", "quantity": "1/4 cup"},
+            {"item": "Parsley, minced", "quantity": "1/4 cup"},
+            {"item": "Red onion, chopped", "quantity": "3 tbsp"},
+            {"item": "Chili garlic sauce", "quantity": "to taste"}
+        ]
+    },
+    "4": {
+        "name": "Spaghetti Squash",
+        "ingredients": [
+            {"item": "Ground beef", "quantity": "1 lb"},
+            {"item": "Salt and pepper", "quantity": "to taste"},
+            {"item": "Onion, chopped", "quantity": "1 medium"},
+            {"item": "Tomato sauce", "quantity": "15 oz"},
+            {"item": "Tomato paste", "quantity": "6 oz"},
+            {"item": "Italian seasoning", "quantity": "1/2 tsp"},
+            {"item": "Parsley flakes", "quantity": "1 tbsp"},
+            {"item": "Garlic powder", "quantity": "1 tsp"},
+            {"item": "Red pepper flakes", "quantity": "to taste"},
+            {"item": "Worcestershire sauce", "quantity": "1 tbsp"},
+            {"item": "Granulated sugar", "quantity": "1 tbsp"},
+            {"item": "Water", "quantity": "1 cup"},
+            {"item": "Fresh basil leaves", "quantity": "1/4 cup"},
+            {"item": "Spaghetti noodles"}
+        ]
+    },
+    "5": {
+        "name": "Cod Fish with Tartar Sauce",
+        "ingredients": [
+            {"item": "Unsalted butter"},
+            {"item": "Fresh lemon juice"},
+            {"item": "Minced garlic"},
+            {"item": "Kosher salt"},
+            {"item": "Red pepper flakes"},
+            {"item": "Capers"},
+            {"item": "Cod fillets"},
+            {"item": "Paprika"}
+        ]
+    }
+}
+
